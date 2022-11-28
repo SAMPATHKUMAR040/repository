@@ -1,3 +1,7 @@
 HI wellcome to AshokIt...!
+<<<<<<< Updated upstream
 course content is java,spring
 Hi Hello Ashok
+=======
+
+>>>>>>> Stashed changes
